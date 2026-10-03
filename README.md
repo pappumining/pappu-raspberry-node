@@ -6,12 +6,19 @@ The image can be written using **Rufus** or **Win32 Disk Imager** on a minimum *
 
 ---
 
-## Download Pappu Node IMG
+## Download Pappu Node IMG v1.0.0
 
 [Download IMG File](http://49.12.79.141:5259/pappu-node-v2.img)
 
 ```text
 http://49.12.79.141:5259/pappu-node-v2.img
+```
+## Download Pappu Node IMG v2.0.0
+
+[Download IMG File](http://49.12.79.141:5259/pappu-node-usa-v2.img)
+
+```text
+http://49.12.79.141:5259/pappu-node-usa-v2.img
 ```
 
 ---
