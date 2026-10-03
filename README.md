@@ -8,17 +8,17 @@ The image can be written using **Rufus** or **Win32 Disk Imager** on a minimum *
 
 ## Download Pappu Node IMG V1.0.0
 
-[Download IMG File](https://49.12.79.141:7729/pappu-node-v2.img)
+[Download IMG File](https://rp.pappumining.com:7729/pappu-node-v2.img)
 
 ```text
-https://49.12.79.141:7729/pappu-node-v2.img
+https://rp.pappumining.com:7729/pappu-node-v2.img
 ```
 ## Download Pappu Node IMG V2.0.0
 
-[Download IMG File](https://49.12.79.141:7729/pappu-node-usa-v2.img)
+[Download IMG File](https://rp.pappumining.com:7729/pappu-node-usa-v2.img)
 
 ```text
-https://49.12.79.141:7729/pappu-node-usa-v2.img
+https://rp.pappumining.com:7729/pappu-node-usa-v2.img
 ```
 ---
 
