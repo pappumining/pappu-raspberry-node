@@ -20,6 +20,14 @@ https://rp.pappumining.com:7729/pappu-node-v2.img
 ```text
 https://rp.pappumining.com:7729/pappu-node-usa-v2.img
 ```
+
+## Download Pappu Node IMG V2.1.0
+
+[Download IMG File](https://rp.pappumining.com:7729/pappu-node-usa-v2.1.img)
+
+```text
+https://rp.pappumining.com:7729/pappu-node-usa-v2.1.img
+```
 ---
 
 ## Image Information
