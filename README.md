@@ -133,7 +133,7 @@ Click the download link and save the **Pappu Node IMG** file to your Windows com
 Download link:
 
 ```text
-http://49.12.79.141:5259/pappu-node-v2.img
+http://49.12.79.141:5259/pappu-node-usa-v2.1.img
 ```
 
 ---
